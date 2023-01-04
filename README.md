@@ -11,3 +11,12 @@
 如果你对项目感兴趣或者想交流讨论，也非常欢迎
 
 QQ: 3040809965
+
+## License
+
+```
+MIT License
+
+Copyright (c) 2022 YGXB-net
+```
+
