@@ -5,6 +5,7 @@
 config.yml
 # data
 data.json
+data.db
 # log
 logs
 
